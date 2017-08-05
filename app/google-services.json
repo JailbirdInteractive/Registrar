@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "973485334159",
+    "firebase_url": "https://registrar-72d4e.firebaseio.com",
+    "project_id": "registrar-72d4e",
+    "storage_bucket": "registrar-72d4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973485334159:android:f34024b52759687c",
+        "android_client_info": {
+          "package_name": "com.scorch.registrar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973485334159-n3cmgq80abbstfcgfde3pp0p2lmakj55.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scorch.registrar",
+            "certificate_hash": "fd21ac42147213f8c299bfb8a505f74c0e70bce5"
+          }
+        },
+        {
+          "client_id": "973485334159-drsd8ia9efch12drdvq4ghnb2huhtors.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMwayxuHhZ2aKeeL8zpJWtOMiI5qOPCI0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973485334159-drsd8ia9efch12drdvq4ghnb2huhtors.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
